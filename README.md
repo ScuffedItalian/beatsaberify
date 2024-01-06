@@ -15,6 +15,9 @@ You can follow [this](https://youtu.be/Lhj7SLzjYFk) video to learn how to instal
 # To-dos
 * Add song offset adjuser
 * Add BPM adjuster
-  
+
+
+# Notes
+3 files will be created, you can delete 2 of them but the file labeled `song.ogg` is the final song file.
 
 
